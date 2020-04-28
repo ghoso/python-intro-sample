@@ -8,3 +8,4 @@ stdlib_tour.py  標準ライブラリ使用サンプル
 mycalc パッケージimport例  
 shape1~shape4  オブジェクト指向プログラミングチュートリアル  
 weather_hack  天気予報サービスWeather Hackからお天気情報を取得するPythonプログラム  
+python-basic.ipynb  Jupyter Notebookファイル
